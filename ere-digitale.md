@@ -1,4 +1,4 @@
-# Les débuts de l'ère digitales
+# Les débuts de l'ère digitale
 
 ## Vers un Nouveau Système de Cotation
 
@@ -25,3 +25,9 @@ Suite au succès de *Betterment*, le premier robot-conseiller (*robo-advisor* ou
 N'étant plus réservées aux courtiers professionnels, ces outils numériques permettent une automatisation des services financiers ne requérant qu'une très légère, voire aucune, supervision humaine. Cela permet notamment d'ouvrir la porte à des investisseurs avec un budget de départ bien plus faible qu'auprès des conseillers financiers humains. [^5]
 
 [^5]: [Investopedia - Robo-Advisor](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
+
+## Pistes de recherches :
+
+[^8]: [Investopedia - How the internet have changed everything](https://www.investopedia.com/financial-edge/0212/how-the-internet-has-changed-investing.aspx)
+
+[^7]: [Investopedia - Robots will manage over $1 Trillion Soon](https://www.investopedia.com/robots-will-manage-over-usd1-trillion-of-your-money-soon-get-used-to-it-4690219)
