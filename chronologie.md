@@ -11,6 +11,7 @@
 - 1986 : Naissance de la la *Cotation Assistée en Continu* [^6]
 - 1992 : Elaboration du *Nouveau Système de Cotation* par la *Société des Bourses Françaises*
 - 1998 : Déplacement des *agents de change* du *Palais Brongniart*, qui sont alors dans des bureaux séparés [^1]
+- 1995 : Mise en service du *Nouveau Système de Cotation*, visant à remplacer progressivement la *Cotation Assistée en Continu*
 - 1999 : Fusion de la *Bourse de Paris* pour former *Euronext* [^1] et abandon du *CAC* pour le *NSC* [^4]
 - 2007 : Fusion d'*Euronext* avec le *New York Stock Exchange*, abandon du *NSC* au profit du système *Universal Trading Platform* [^4]
 - ~ 2010 : Relocalisation des serveurs de la Bourse de Paris du Palais Brognart à Londres
