@@ -1,8 +1,10 @@
 # Glossaire
 
 - **AMF** : Autorité des Marchés Financiers
-- **CAC** : Cotation Assistée en Continu, plus rarement Compagnie des Agents de Change7
+- **CAC** : Cotation Assistée en Continu, plus rarement Compagnie des Agents de Change
 - **CECEI** : Comité des Etablissements de Crédit et des Entreprises d'Investissement
+- **CEE** : Communauté Economique Européenne
+- **CME** : Chicago Mercantile Exchange
 - **CMF** : Conseil des Marchés Financiers
 - **COB** : Commission des Opérations de Bourse
 - **CRBF** : Comité de la Réglementation Bancaire et Financière
@@ -15,4 +17,5 @@
 - **NYSE** : New York Stack Exchange
 - **PME** : Petites et Moyennes Entreprises
 - **PMI** : Petites et Moyennes Industries
+- **SBF** : Société des Bourses Françaises
 - **SEC** : Securitties and Exchange Commission

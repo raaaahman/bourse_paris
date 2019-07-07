@@ -10,9 +10,11 @@
 - 1724 : Création de la *Bourse de Paris* par le Roi Louis XV [^1] [^2]
 - 1774 : Instauration de la criée par décrêt du Roi Louis XV [^1]
 - 1826 : Déménagement de la *Bourse de Paris* depuis l'*Hôtel de Nevers* vers le *Palais Brongniart* [^1]
+- 1957 : traité de Rome sur la *Communauté Economique Européenne*
 - 1983 : Ouverture du *Second Marché* permettant l'entrée en bourse des *PME/PMI* [^10]
 - 1984 : Ouverture à l'internationale du *Premier Marché* (grandes entreprises françaises) [^10]
 - 1985 : Edition du *Livre Blanc sur la réforme du financement de l'économie*
+- 1986 : *Acte Unique Européen* [^7]
 - 1986 : Naissance de la la *Cotation Assistée en Continu* [^6]
 - 1987 : krach boursier d'Octobre [^10]
 - années 90 : Naissance de la *Société des Bourses Françaises* en succession à la *Compagnie des Agents de Change* [^9]
