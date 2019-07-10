@@ -14,7 +14,7 @@
 - **MONEP** : Marché des Options Négociables
 - **NSC** : Nouveau Système de Cotation
 - **NTIC** : Nouvelles Technologies d'Information et de Communication
-- **NYSE** : New York Stack Exchange
+- **NYSE** : New York Stock Exchange
 - **PME** : Petites et Moyennes Entreprises
 - **PMI** : Petites et Moyennes Industries
 - **SBF** : Société des Bourses Françaises
